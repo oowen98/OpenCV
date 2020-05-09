@@ -1,0 +1,3 @@
+﻿  LaneTracking.cpp
+C:\Users\Owen\Desktop\Projects\OpenCV\LaneTracking\LaneTracking\LaneTracking.cpp(178,39): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+  LaneTracking.vcxproj -> C:\Users\Owen\Desktop\Projects\OpenCV\LaneTracking\x64\Debug\LaneTracking.exe
